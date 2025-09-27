@@ -916,6 +916,14 @@ body {
     gap: 12px;
   }
 
+  .logo-text {
+    font-size: 24px;
+  }
+
+  .fixed-navbar .logo-text {
+    font-size: 24px;
+  }
+
   .get-started-btn {
     padding: 8px 16px;
     font-size: 12px;
